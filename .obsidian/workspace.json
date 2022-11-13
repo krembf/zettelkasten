@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "4a9c572ed3b1b345",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb014d3970fd3efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f332b2e7108c2a74",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Common/Linux/Tail.md",
+                "staged": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e70dcd353ec7a02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "62cd0552c09aee4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ac2a56bf1baa90d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd27685fcc4a1ee1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6095296dba302447",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ddb7dd574cc73a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99c9b0a65ab0233f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29ecba061b20554b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f332b2e7108c2a74",
+  "lastOpenFiles": [
+    "Common/Linux/Tail.md",
+    "README.md",
+    "Common/Linux/Grep.md",
+    "Common/Node/NPM.md",
+    "Common/Hardware/Ink Plates.md",
+    "Common/Linux/Find.md",
+    "Common/Python/Date Time.md",
+    "Common/Linux/VNC.md",
+    "Common/Linux/System Information.md",
+    "Pasted image 20220505002054.png"
+  ]
+}

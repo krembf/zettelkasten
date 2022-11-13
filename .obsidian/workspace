@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "4a9c572ed3b1b345",
+    "type": "split",
+    "children": [
+      {
+        "id": "884962e48de78fc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Common/Linux/Grep.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e70dcd353ec7a02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "62cd0552c09aee4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ac2a56bf1baa90d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd27685fcc4a1ee1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6095296dba302447",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ddb7dd574cc73a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99c9b0a65ab0233f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Common/Linux/Grep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "884962e48de78fc6",
+  "lastOpenFiles": [
+    "Common/Linux/Find.md",
+    "Common/Linux/Grep.md",
+    "Common/Python/Date Time.md",
+    "Common/Node/NPM.md",
+    "Common/Linux/VNC.md",
+    "Common/Linux/System Information.md",
+    "Pasted image 20220505002054.png"
+  ]
+}
