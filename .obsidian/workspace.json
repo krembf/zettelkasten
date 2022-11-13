@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fb014d3970fd3efd",
+        "id": "e81d3925adcea10e",
         "type": "tabs",
         "children": [
           {
-            "id": "f332b2e7108c2a74",
+            "id": "bf93364dddeb7a0d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Common/Linux/Tail.md",
-                "staged": true
+                "file": "Common/Web/Translate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Common/Web/Translate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +103,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f332b2e7108c2a74",
+  "active": "bf93364dddeb7a0d",
   "lastOpenFiles": [
+    "c77e148da4ccc71c8cfcd55ac4490de7.png",
+    "Common/Python/Date Time.md",
+    "Common/Web/Translate.md",
+    "Common/Machine Learning/Resources.md",
     "Common/Linux/Tail.md",
     "README.md",
     "Common/Linux/Grep.md",
     "Common/Node/NPM.md",
     "Common/Hardware/Ink Plates.md",
-    "Common/Linux/Find.md",
-    "Common/Python/Date Time.md",
-    "Common/Linux/VNC.md",
-    "Common/Linux/System Information.md",
-    "Pasted image 20220505002054.png"
+    "Common/Linux/Find.md"
   ]
 }
