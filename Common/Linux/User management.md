@@ -8,3 +8,18 @@ chage --list <username>
 ```sh
 chage -d 0 <username>
 ```
+
+#### add new user
+```sh
+sudo adduser newuser
+```
+
+#### grant new user sudo privileges
+```sh
+usermod -aG sudo newuser
+```
+
+#### see what groups your new user is
+```sh
+groups newuser
+```
